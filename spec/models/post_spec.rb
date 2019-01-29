@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe Post, type: :model do
+, type: :model do
 describe "class methods" do
   before do
     Author.destroy_all
